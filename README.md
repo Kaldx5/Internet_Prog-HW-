@@ -3,12 +3,10 @@
 Welcome to the Eid al-Fitr Celebration Website repository! This website is dedicated to celebrating Eid al-Fitr, marking the end of Ramadan. It features event details, upcoming events, a photo gallery, and contact information.
 
 ## Screenshots
-![Screenshot (4)](https://github.com/Kaldx5/Internet_Prog-HW-/assets/96445641/a89dd596-fb4a-44f7-8cf0-c3bdbcf28bbc)
-
-![Screenshot (6)](https://github.com/Kaldx5/Internet_Prog-HW-/assets/96445641/ca61f59b-2f87-4356-a208-3913edeedae8)
-![Screenshot (7)](https://github.com/Kaldx5/Internet_Prog-HW-/assets/96445641/b2894168-c85e-4642-9c76-00c56a5d2cea)
-![Screenshot (8)](https://github.com/Kaldx5/Internet_Prog-HW-/assets/96445641/5b5c4eb6-0f48-4b9b-94fe-f0a084f77f38)
-
+![Screenshot (4)](https://github.com/Kaldx5/Internet_Prog-HW-/assets/96445641/35515ed6-e877-4753-bb69-f3d1fce2194e)
+![Screenshot (6)](https://github.com/Kaldx5/Internet_Prog-HW-/assets/96445641/c0be6127-1eb6-4bca-b6e3-3f3a17db8d86)
+![Screenshot (7)](https://github.com/Kaldx5/Internet_Prog-HW-/assets/96445641/20ae0605-127d-46c3-8008-5d5f818f2481)
+![Screenshot (8)](https://github.com/Kaldx5/Internet_Prog-HW-/assets/96445641/4ca1fb5d-3b36-4b73-a1d0-8d626d76fef7)
 
 ## Features
 
